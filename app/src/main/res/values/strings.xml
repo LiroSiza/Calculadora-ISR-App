@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CalculadoraISR_2024</string>
+    <string name="tituloMainActivity">Calcula tu ISR</string>
+    <string name="subTituloMainActivity">¡Completa los datos para empezar!</string>
+    <string name="opcionIngresoMXN">INGRESO EN MXN</string>
+    <string name="opcionIngresoMXNinput">tu salario</string>
+    <string name="opcionTipoISR">TIPO DE ISR</string>
+    <string name="btnCalcular">Calcular</string>
+    <string-array name="datosArray">
+        <item>Diario</item>
+        <item>Semanal</item>
+        <item>Quincenal</item>
+        <item>Decedenal</item>
+        <item>Mensual</item>
+    </string-array>
+    <string name="cargando">Cargando...</string>
+    <string name="tituloReporteCalculos">Cálculo de ISR a pagar:</string>
+    <string name="tablas">TABLAS UTILIZADAS</string>
+    <string name="ingreso">Ingreso:</string>
+    <string name="limite">Límite inferior:</string>
+    <string name="diferencia">Diferencia:</string>
+    <string name="tasa">Tasa:</string>
+    <string name="impuestoMarginal">Impuesto Marginal:</string>
+    <string name="cuota">Cuota fija:</string>
+    <string name="impuestoRetener">Impuesto a retener:</string>
+    <string name="percepcion">Percepción:</string>
+    <string name="subEmpleo">Subsidio al empleo:</string>
+    <string name="contentDescrip">Boton regresar</string>
+    <string name="btnInfo">Boton de información de tablas</string>
+    <string name="tabla">Imagen de una tabla</string>
+    <string name="tablasUsadas">Tablas Utilizadas</string>
+    <string name="consulta">Presiona para constular fuentes</string>
+</resources>
